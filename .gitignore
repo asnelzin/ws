@@ -22,6 +22,7 @@ coverage.txt
 
 # User-specific stuff:
 .idea
+**/.DS_Store
 target/
 
 # Sensitive or high-churn files:
