@@ -9,8 +9,8 @@ Download the latest release from the [the releases page](https://github.com/asne
 
 For example (for macOS):
 ```
-$ wget https://github.com/asnelzin/ws/releases/download/v0.1.0/ws-0.1.0-darwin-amd64
-$ mv ws-0.1.0-darwin-amd64 /usr/local/bin/ws
+$ wget https://github.com/asnelzin/ws/releases/download/v0.2.0/ws-0.2.0-darwin-amd64
+$ mv ws-0.2.0-darwin-amd64 /usr/local/bin/ws
 $ chmod +x /usr/local/bin/ws
 ```
 
