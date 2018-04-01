@@ -3,6 +3,12 @@
 	"ignore": "test",
 	"package": [
 		{
+			"checksumSHA1": "0QZlv9eOOsNXjJsKtVRHw+B1+Ik=",
+			"path": "github.com/chzyer/readline",
+			"revision": "f6d7a1f6fbf35bbf9beb80dc63c56a29dcfb759f",
+			"revisionTime": "2017-12-08T01:17:16Z"
+		},
+		{
 			"checksumSHA1": "VsE3zx2d8kpwj97TWhYddzAwBrY=",
 			"path": "github.com/fatih/color",
 			"revision": "507f6050b8568533fb3f5504de8e5205fa62a114",
@@ -13,6 +19,12 @@
 			"path": "github.com/gorilla/websocket",
 			"revision": "91f589db023d66e4aba7112d44cc0d2fb091c553",
 			"revisionTime": "2018-01-25T18:51:21Z"
+		},
+		{
+			"checksumSHA1": "VrHSM9dRBPL3ufyl8qTnHCnF/cg=",
+			"path": "github.com/jessevdk/go-flags",
+			"revision": "f88afde2fa19a30cf50ba4b05b3d13bc6bae3079",
+			"revisionTime": "2017-09-26T14:47:05Z"
 		},
 		{
 			"checksumSHA1": "XEV3BI3nHA/rNa/tIgB7fVCrDww=",
